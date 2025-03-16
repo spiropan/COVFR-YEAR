@@ -1,6 +1,6 @@
 Yearly ecological regression to estimate COVID vaccine mortality risk
 
-This script covid_deaths_regression.m contains the analyses (Matlab or Octave) presented in the post https://telemimesis.substack.com/p/a6e02cc2-ca38-47ff-811d-8419441cdd0b
+This script covid_deaths_regression.m contains the analyses (Matlab or Octave) presented in the post [https://telemimesis.substack.com/p/did-covid-vaccination-reduce-covid](https://telemimesis.substack.com/p/did-covid-vaccination-reduce-covid) 
 
 The Tables folder also has CSV files of the derived data tables that can imported into your software of choice. Please cite the Substack article above if you use and publish any reports on these data.
 
